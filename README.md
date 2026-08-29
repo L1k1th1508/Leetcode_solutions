@@ -8,9 +8,9 @@ from LeetCode using LeetSync.
 ## 📊 Progress
 
 <!-- STATS_START -->
-**Problems Solved:** 83
+**Problems Solved:** 84
 
-**Languages:** 🐍 Python (76) | 🔵 C (7)
+**Languages:** 🐍 Python (77) | 🔵 C (7)
 <!-- STATS_END -->
 
 ## 📝 Solved Problems
@@ -54,6 +54,7 @@ from LeetCode using LeetSync.
 | 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum) | Python |
 | 219 | [Contains Duplicate Ii](./219-contains-duplicate-ii) | Python |
 | 227 | [Basic Calculator Ii](./227-basic-calculator-ii) | Python |
+| 229 | [Majority Element Ii](./229-majority-element-ii) | Python |
 | 283 | [Move Zeroes](./283-move-zeroes) | Python |
 | 349 | [Intersection Of Two Arrays](./349-intersection-of-two-arrays) | C |
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum) | Python |
