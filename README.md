@@ -8,9 +8,9 @@ from LeetCode using LeetSync.
 ## 📊 Progress
 
 <!-- STATS_START -->
-**Problems Solved:** 84
+**Problems Solved:** 85
 
-**Languages:** 🐍 Python (77) | 🔵 C (7)
+**Languages:** 🐍 Python (78) | 🔵 C (7)
 <!-- STATS_END -->
 
 ## 📝 Solved Problems
@@ -67,6 +67,7 @@ from LeetCode using LeetSync.
 | 907 | [Koko Eating Bananas](./907-koko-eating-bananas) | Python |
 | 909 | [Stone Game](./909-stone-game) | Python |
 | 1056 | [Capacity To Ship Packages Within D Days](./1056-capacity-to-ship-packages-within-d-days) | Python |
+| 1078 | [Remove Outermost Parentheses](./1078-remove-outermost-parentheses) | Python |
 | 1096 | [Maximum Sum Of Two Non Overlapping Subarrays](./1096-maximum-sum-of-two-non-overlapping-subarrays) | Python |
 | 1256 | [Rank Transform Of An Array](./1256-rank-transform-of-an-array) | Python |
 | 1408 | [Find The Smallest Divisor Given A Threshold](./1408-find-the-smallest-divisor-given-a-threshold) | Python |
