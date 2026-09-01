@@ -8,9 +8,9 @@ from LeetCode using LeetSync.
 ## 📊 Progress
 
 <!-- STATS_START -->
-**Problems Solved:** 85
+**Problems Solved:** 86
 
-**Languages:** 🐍 Python (78) | 🔵 C (7)
+**Languages:** 🐍 Python (79) | 🔵 C (7)
 <!-- STATS_END -->
 
 ## 📝 Solved Problems
@@ -44,6 +44,7 @@ from LeetCode using LeetSync.
 | 88 | [Merge Sorted Array](./88-merge-sorted-array) | C |
 | 118 | [Pascals Triangle](./118-pascals-triangle) | Python |
 | 136 | [Single Number](./136-single-number) | Python |
+| 151 | [Reverse Words In A String](./151-reverse-words-in-a-string) | Python |
 | 153 | [Find Minimum In Rotated Sorted Array](./153-find-minimum-in-rotated-sorted-array) | Python |
 | 154 | [Find Minimum In Rotated Sorted Array Ii](./154-find-minimum-in-rotated-sorted-array-ii) | Python |
 | 162 | [Find Peak Element](./162-find-peak-element) | Python |
