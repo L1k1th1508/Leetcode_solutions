@@ -8,9 +8,9 @@ from LeetCode using LeetSync.
 ## 📊 Progress
 
 <!-- STATS_START -->
-**Problems Solved:** 86
+**Problems Solved:** 87
 
-**Languages:** 🐍 Python (79) | 🔵 C (7)
+**Languages:** 🐍 Python (80) | 🔵 C (7)
 <!-- STATS_END -->
 
 ## 📝 Solved Problems
@@ -25,6 +25,7 @@ from LeetCode using LeetSync.
 | 15 | [3Sum](./15-3sum) | Python |
 | 16 | [3Sum Closest](./16-3sum-closest) | Python |
 | 18 | [4Sum](./18-4sum) | Python |
+| 20 | [Valid Parentheses](./20-valid-parentheses) | Python |
 | 26 | [Remove Duplicates From Sorted Array](./26-remove-duplicates-from-sorted-array) | Python |
 | 27 | [Remove Element](./27-remove-element) | C |
 | 31 | [Next Permutation](./31-next-permutation) | Python |
