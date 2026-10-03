@@ -8,9 +8,9 @@ from LeetCode using LeetSync.
 ## 📊 Progress
 
 <!-- STATS_START -->
-**Problems Solved:** 87
+**Problems Solved:** 88
 
-**Languages:** 🐍 Python (80) | 🔵 C (7)
+**Languages:** 🐍 Python (81) | 🔵 C (7)
 <!-- STATS_END -->
 
 ## 📝 Solved Problems
@@ -79,6 +79,7 @@ from LeetCode using LeetSync.
 | 1605 | [Minimum Number Of Days To Make M Bouquets](./1605-minimum-number-of-days-to-make-m-bouquets) | Python |
 | 1616 | [Minimum Difference Between Largest And Smallest Value In Three Moves](./1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) | Python |
 | 1646 | [Kth Missing Positive Number](./1646-kth-missing-positive-number) | Python |
+| 1737 | [Maximum Nesting Depth Of The Parentheses](./1737-maximum-nesting-depth-of-the-parentheses) | Python |
 | 1741 | [Sort Array By Increasing Frequency](./1741-sort-array-by-increasing-frequency) | Python |
 | 1878 | [Check If Array Is Sorted And Rotated](./1878-check-if-array-is-sorted-and-rotated) | Python |
 | 1961 | [Maximum Ice Cream Bars](./1961-maximum-ice-cream-bars) | Python |
