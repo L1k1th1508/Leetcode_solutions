@@ -8,9 +8,9 @@ from LeetCode using LeetSync.
 ## 📊 Progress
 
 <!-- STATS_START -->
-**Problems Solved:** 88
+**Problems Solved:** 89
 
-**Languages:** 🐍 Python (81) | 🔵 C (7)
+**Languages:** 🐍 Python (82) | 🔵 C (7)
 <!-- STATS_END -->
 
 ## 📝 Solved Problems
@@ -22,6 +22,7 @@ from LeetCode using LeetSync.
 | 1 | [Two Sum](./1-two-sum) | Python |
 | 4 | [Median Of Two Sorted Arrays](./4-median-of-two-sorted-arrays) | Python |
 | 11 | [Container With Most Water](./11-container-with-most-water) | Python |
+| 13 | [Roman To Integer](./13-roman-to-integer) | Python |
 | 15 | [3Sum](./15-3sum) | Python |
 | 16 | [3Sum Closest](./16-3sum-closest) | Python |
 | 18 | [4Sum](./18-4sum) | Python |
