@@ -8,9 +8,9 @@ from LeetCode using LeetSync.
 ## 📊 Progress
 
 <!-- STATS_START -->
-**Problems Solved:** 89
+**Problems Solved:** 90
 
-**Languages:** 🐍 Python (82) | 🔵 C (7)
+**Languages:** 🐍 Python (83) | 🔵 C (7)
 <!-- STATS_END -->
 
 ## 📝 Solved Problems
@@ -67,6 +67,7 @@ from LeetCode using LeetSync.
 | 560 | [Subarray Sum Equals K](./560-subarray-sum-equals-k) | Python |
 | 628 | [Maximum Product Of Three Numbers](./628-maximum-product-of-three-numbers) | Python |
 | 653 | [Two Sum Iv Input Is A Bst](./653-two-sum-iv-input-is-a-bst) | Python |
+| 886 | [Score Of Parentheses](./886-score-of-parentheses) | Python |
 | 907 | [Koko Eating Bananas](./907-koko-eating-bananas) | Python |
 | 909 | [Stone Game](./909-stone-game) | Python |
 | 1056 | [Capacity To Ship Packages Within D Days](./1056-capacity-to-ship-packages-within-d-days) | Python |
