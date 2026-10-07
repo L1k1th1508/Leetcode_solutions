@@ -8,9 +8,9 @@ from LeetCode using LeetSync.
 ## 📊 Progress
 
 <!-- STATS_START -->
-**Problems Solved:** 90
+**Problems Solved:** 91
 
-**Languages:** 🐍 Python (83) | 🔵 C (7)
+**Languages:** 🐍 Python (84) | 🔵 C (7)
 <!-- STATS_END -->
 
 ## 📝 Solved Problems
@@ -70,6 +70,7 @@ from LeetCode using LeetSync.
 | 886 | [Score Of Parentheses](./886-score-of-parentheses) | Python |
 | 907 | [Koko Eating Bananas](./907-koko-eating-bananas) | Python |
 | 909 | [Stone Game](./909-stone-game) | Python |
+| 957 | [Minimum Add To Make Parentheses Valid](./957-minimum-add-to-make-parentheses-valid) | Python |
 | 1056 | [Capacity To Ship Packages Within D Days](./1056-capacity-to-ship-packages-within-d-days) | Python |
 | 1078 | [Remove Outermost Parentheses](./1078-remove-outermost-parentheses) | Python |
 | 1096 | [Maximum Sum Of Two Non Overlapping Subarrays](./1096-maximum-sum-of-two-non-overlapping-subarrays) | Python |
