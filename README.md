@@ -8,9 +8,9 @@ from LeetCode using LeetSync.
 ## 📊 Progress
 
 <!-- STATS_START -->
-**Problems Solved:** 91
+**Problems Solved:** 92
 
-**Languages:** 🐍 Python (84) | 🔵 C (7)
+**Languages:** 🐍 Python (85) | 🔵 C (7)
 <!-- STATS_END -->
 
 ## 📝 Solved Problems
@@ -78,6 +78,7 @@ from LeetCode using LeetSync.
 | 1408 | [Find The Smallest Divisor Given A Threshold](./1408-find-the-smallest-divisor-given-a-threshold) | Python |
 | 1505 | [Create Target Array In The Given Order](./1505-create-target-array-in-the-given-order) | Python |
 | 1519 | [Minimum Subsequence In Non Increasing Order](./1519-minimum-subsequence-in-non-increasing-order) | Python |
+| 1538 | [Maximum Points You Can Obtain From Cards](./1538-maximum-points-you-can-obtain-from-cards) | Python |
 | 1574 | [Maximum Product Of Two Elements In An Array](./1574-maximum-product-of-two-elements-in-an-array) | Python |
 | 1605 | [Minimum Number Of Days To Make M Bouquets](./1605-minimum-number-of-days-to-make-m-bouquets) | Python |
 | 1616 | [Minimum Difference Between Largest And Smallest Value In Three Moves](./1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) | Python |
