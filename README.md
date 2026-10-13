@@ -8,9 +8,9 @@ from LeetCode using LeetSync.
 ## 📊 Progress
 
 <!-- STATS_START -->
-**Problems Solved:** 92
+**Problems Solved:** 93
 
-**Languages:** 🐍 Python (85) | 🔵 C (7)
+**Languages:** 🐍 Python (86) | 🔵 C (7)
 <!-- STATS_END -->
 
 ## 📝 Solved Problems
@@ -20,6 +20,7 @@ from LeetCode using LeetSync.
 | # | Problem | Language |
 |---:|---|---|
 | 1 | [Two Sum](./1-two-sum) | Python |
+| 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters) | Python |
 | 4 | [Median Of Two Sorted Arrays](./4-median-of-two-sorted-arrays) | Python |
 | 11 | [Container With Most Water](./11-container-with-most-water) | Python |
 | 13 | [Roman To Integer](./13-roman-to-integer) | Python |
