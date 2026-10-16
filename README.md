@@ -8,9 +8,9 @@ from LeetCode using LeetSync.
 ## 📊 Progress
 
 <!-- STATS_START -->
-**Problems Solved:** 94
+**Problems Solved:** 95
 
-**Languages:** 🐍 Python (87) | 🔵 C (7)
+**Languages:** 🐍 Python (88) | 🔵 C (7)
 <!-- STATS_END -->
 
 ## 📝 Solved Problems
@@ -88,6 +88,7 @@ from LeetCode using LeetSync.
 | 1737 | [Maximum Nesting Depth Of The Parentheses](./1737-maximum-nesting-depth-of-the-parentheses) | Python |
 | 1741 | [Sort Array By Increasing Frequency](./1741-sort-array-by-increasing-frequency) | Python |
 | 1878 | [Check If Array Is Sorted And Rotated](./1878-check-if-array-is-sorted-and-rotated) | Python |
+| 1890 | [Sum Of Beauty Of All Substrings](./1890-sum-of-beauty-of-all-substrings) | Python |
 | 1961 | [Maximum Ice Cream Bars](./1961-maximum-ice-cream-bars) | Python |
 | 1970 | [Sorting The Sentence](./1970-sorting-the-sentence) | Python |
 | 2106 | [Find Greatest Common Divisor Of Array](./2106-find-greatest-common-divisor-of-array) | Python |
