@@ -8,9 +8,9 @@ from LeetCode using LeetSync.
 ## 📊 Progress
 
 <!-- STATS_START -->
-**Problems Solved:** 95
+**Problems Solved:** 96
 
-**Languages:** 🐍 Python (88) | 🔵 C (7)
+**Languages:** 🐍 Python (89) | 🔵 C (7)
 <!-- STATS_END -->
 
 ## 📝 Solved Problems
@@ -42,6 +42,7 @@ from LeetCode using LeetSync.
 | 66 | [Plus One](./66-plus-one) | C |
 | 73 | [Set Matrix Zeroes](./73-set-matrix-zeroes) | Python |
 | 75 | [Sort Colors](./75-sort-colors) | Python |
+| 76 | [Minimum Window Substring](./76-minimum-window-substring) | Python |
 | 80 | [Remove Duplicates From Sorted Array Ii](./80-remove-duplicates-from-sorted-array-ii) | C |
 | 81 | [Search In Rotated Sorted Array Ii](./81-search-in-rotated-sorted-array-ii) | Python |
 | 88 | [Merge Sorted Array](./88-merge-sorted-array) | C |
