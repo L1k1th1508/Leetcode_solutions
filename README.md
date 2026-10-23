@@ -8,9 +8,9 @@ from LeetCode using LeetSync.
 ## 📊 Progress
 
 <!-- STATS_START -->
-**Problems Solved:** 97
+**Problems Solved:** 98
 
-**Languages:** 🐍 Python (90) | 🔵 C (7)
+**Languages:** 🐍 Python (91) | 🔵 C (7)
 <!-- STATS_END -->
 
 ## 📝 Solved Problems
@@ -39,6 +39,7 @@ from LeetCode using LeetSync.
 | 48 | [Rotate Image](./48-rotate-image) | Python |
 | 53 | [Maximum Subarray](./53-maximum-subarray) | Python |
 | 54 | [Spiral Matrix](./54-spiral-matrix) | Python |
+| 64 | [Minimum Path Sum](./64-minimum-path-sum) | Python |
 | 66 | [Plus One](./66-plus-one) | C |
 | 73 | [Set Matrix Zeroes](./73-set-matrix-zeroes) | Python |
 | 75 | [Sort Colors](./75-sort-colors) | Python |
