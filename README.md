@@ -8,9 +8,9 @@ from LeetCode using LeetSync.
 ## 📊 Progress
 
 <!-- STATS_START -->
-**Problems Solved:** 98
+**Problems Solved:** 99
 
-**Languages:** 🐍 Python (91) | 🔵 C (7)
+**Languages:** 🐍 Python (92) | 🔵 C (7)
 <!-- STATS_END -->
 
 ## 📝 Solved Problems
@@ -100,6 +100,7 @@ from LeetCode using LeetSync.
 | 2265 | [Partition Array According To Given Pivot](./2265-partition-array-according-to-given-pivot) | Python |
 | 2271 | [Rearrange Array Elements By Sign](./2271-rearrange-array-elements-by-sign) | Python |
 | 2305 | [Append K Integers With Minimal Sum](./2305-append-k-integers-with-minimal-sum) | Python |
+| 2496 | [Count Days Spent Together](./2496-count-days-spent-together) | Python |
 | 2561 | [Number Of Distinct Averages](./2561-number-of-distinct-averages) | Python |
 | 2640 | [Maximum Number Of Integers To Choose From A Range I](./2640-maximum-number-of-integers-to-choose-from-a-range-i) | Python |
 | 2699 | [Count The Number Of Fair Pairs](./2699-count-the-number-of-fair-pairs) | Python |
