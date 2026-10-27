@@ -8,9 +8,9 @@ from LeetCode using LeetSync.
 ## 📊 Progress
 
 <!-- STATS_START -->
-**Problems Solved:** 99
+**Problems Solved:** 100
 
-**Languages:** 🐍 Python (92) | 🔵 C (7)
+**Languages:** 🐍 Python (93) | 🔵 C (7)
 <!-- STATS_END -->
 
 ## 📝 Solved Problems
@@ -41,6 +41,7 @@ from LeetCode using LeetSync.
 | 54 | [Spiral Matrix](./54-spiral-matrix) | Python |
 | 64 | [Minimum Path Sum](./64-minimum-path-sum) | Python |
 | 66 | [Plus One](./66-plus-one) | C |
+| 70 | [Climbing Stairs](./70-climbing-stairs) | Python |
 | 73 | [Set Matrix Zeroes](./73-set-matrix-zeroes) | Python |
 | 75 | [Sort Colors](./75-sort-colors) | Python |
 | 76 | [Minimum Window Substring](./76-minimum-window-substring) | Python |
