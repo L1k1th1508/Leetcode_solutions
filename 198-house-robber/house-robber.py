@@ -13,9 +13,12 @@ class Solution(object):
             else:
                 a=nums[n]+recursive(n+2)
                 b=recursive(n+1)
-                hash_map[n]=max(a,b)
+                c=max(a,b)
+                hash_map[n]=c
             return hash_map[n]
         return recursive(0)
-
             
+
+                
+
         
