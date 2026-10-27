@@ -8,9 +8,9 @@ from LeetCode using LeetSync.
 ## 📊 Progress
 
 <!-- STATS_START -->
-**Problems Solved:** 100
+**Problems Solved:** 101
 
-**Languages:** 🐍 Python (93) | 🔵 C (7)
+**Languages:** 🐍 Python (94) | 🔵 C (7)
 <!-- STATS_END -->
 
 ## 📝 Solved Problems
@@ -58,6 +58,7 @@ from LeetCode using LeetSync.
 | 167 | [Two Sum Ii Input Array Is Sorted](./167-two-sum-ii-input-array-is-sorted) | Python |
 | 169 | [Majority Element](./169-majority-element) | Python |
 | 189 | [Rotate Array](./189-rotate-array) | Python |
+| 198 | [House Robber](./198-house-robber) | Python |
 | 204 | [Count Primes](./204-count-primes) | Python |
 | 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum) | Python |
 | 219 | [Contains Duplicate Ii](./219-contains-duplicate-ii) | Python |
