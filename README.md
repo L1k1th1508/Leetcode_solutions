@@ -8,9 +8,9 @@ from LeetCode using LeetSync.
 ## 📊 Progress
 
 <!-- STATS_START -->
-**Problems Solved:** 101
+**Problems Solved:** 102
 
-**Languages:** 🐍 Python (94) | 🔵 C (7)
+**Languages:** 🐍 Python (95) | 🔵 C (7)
 <!-- STATS_END -->
 
 ## 📝 Solved Problems
@@ -65,6 +65,7 @@ from LeetCode using LeetSync.
 | 227 | [Basic Calculator Ii](./227-basic-calculator-ii) | Python |
 | 229 | [Majority Element Ii](./229-majority-element-ii) | Python |
 | 283 | [Move Zeroes](./283-move-zeroes) | Python |
+| 322 | [Coin Change](./322-coin-change) | Python |
 | 349 | [Intersection Of Two Arrays](./349-intersection-of-two-arrays) | C |
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum) | Python |
 | 485 | [Max Consecutive Ones](./485-max-consecutive-ones) | Python |
