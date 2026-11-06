@@ -8,9 +8,9 @@ from LeetCode using LeetSync.
 ## 📊 Progress
 
 <!-- STATS_START -->
-**Problems Solved:** 102
+**Problems Solved:** 103
 
-**Languages:** 🐍 Python (95) | 🔵 C (7)
+**Languages:** 🐍 Python (96) | 🔵 C (7)
 <!-- STATS_END -->
 
 ## 📝 Solved Problems
@@ -74,6 +74,7 @@ from LeetCode using LeetSync.
 | 560 | [Subarray Sum Equals K](./560-subarray-sum-equals-k) | Python |
 | 628 | [Maximum Product Of Three Numbers](./628-maximum-product-of-three-numbers) | Python |
 | 653 | [Two Sum Iv Input Is A Bst](./653-two-sum-iv-input-is-a-bst) | Python |
+| 747 | [Min Cost Climbing Stairs](./747-min-cost-climbing-stairs) | Python |
 | 886 | [Score Of Parentheses](./886-score-of-parentheses) | Python |
 | 907 | [Koko Eating Bananas](./907-koko-eating-bananas) | Python |
 | 909 | [Stone Game](./909-stone-game) | Python |
