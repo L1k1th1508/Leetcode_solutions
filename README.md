@@ -8,9 +8,9 @@ from LeetCode using LeetSync.
 ## 📊 Progress
 
 <!-- STATS_START -->
-**Problems Solved:** 105
+**Problems Solved:** 106
 
-**Languages:** 🐍 Python (98) | 🔵 C (7)
+**Languages:** 🐍 Python (99) | 🔵 C (7)
 <!-- STATS_END -->
 
 ## 📝 Solved Problems
@@ -111,6 +111,7 @@ from LeetCode using LeetSync.
 | 2640 | [Maximum Number Of Integers To Choose From A Range I](./2640-maximum-number-of-integers-to-choose-from-a-range-i) | Python |
 | 2699 | [Count The Number Of Fair Pairs](./2699-count-the-number-of-fair-pairs) | Python |
 | 2714 | [Left And Right Sum Differences](./2714-left-and-right-sum-differences) | Python |
+| 3372 | [Longest Strictly Increasing Or Strictly Decreasing Subarray](./3372-longest-strictly-increasing-or-strictly-decreasing-subarray) | Python |
 | 3626 | [Smallest Divisible Digit Product I](./3626-smallest-divisible-digit-product-i) | Python |
 | 3812 | [Smallest Palindromic Rearrangement I](./3812-smallest-palindromic-rearrangement-i) | Python |
 | 3859 | [Maximum Product Of Two Digits](./3859-maximum-product-of-two-digits) | Python |
