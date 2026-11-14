@@ -8,9 +8,9 @@ from LeetCode using LeetSync.
 ## 📊 Progress
 
 <!-- STATS_START -->
-**Problems Solved:** 106
+**Problems Solved:** 107
 
-**Languages:** 🐍 Python (99) | 🔵 C (7)
+**Languages:** 🐍 Python (100) | 🔵 C (7)
 <!-- STATS_END -->
 
 ## 📝 Solved Problems
@@ -113,6 +113,7 @@ from LeetCode using LeetSync.
 | 2714 | [Left And Right Sum Differences](./2714-left-and-right-sum-differences) | Python |
 | 3372 | [Longest Strictly Increasing Or Strictly Decreasing Subarray](./3372-longest-strictly-increasing-or-strictly-decreasing-subarray) | Python |
 | 3626 | [Smallest Divisible Digit Product I](./3626-smallest-divisible-digit-product-i) | Python |
+| 3644 | [Minimum Positive Sum Subarray](./3644-minimum-positive-sum-subarray) | Python |
 | 3812 | [Smallest Palindromic Rearrangement I](./3812-smallest-palindromic-rearrangement-i) | Python |
 | 3859 | [Maximum Product Of Two Digits](./3859-maximum-product-of-two-digits) | Python |
 | 3918 | [Check Divisibility By Digit Sum And Product](./3918-check-divisibility-by-digit-sum-and-product) | Python |
